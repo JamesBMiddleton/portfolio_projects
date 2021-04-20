@@ -10,6 +10,6 @@ This repository contains a collection of projects I have completed to demonstrat
 
 [PLACES 200 - Exploring 27 U.S. Health & Lifestyle measures](). Exploring the prevalence of various health and lifestyle measures across the U.S and building a multiple regression model to predict disease prevalence using common risk factors. 
 
-[Building a K-nearest classifier from scratch](). Explaining the theory and then building a train-test split function, normalisation function and K-nearest classifier class using numpy and random. Assessing the classifier's performance when predicting Iris species using petal and sepal width and length.
+[Building a K-nearest classifier from scratch](https://github.com/JamesBMiddleton/portfolio_projects/blob/main/k_nearest_classifier/notebook.ipynb). Explaining the theory and then building a train-test split function, normalisation function and K-nearest classifier class using numpy and random. Assessing the classifier's performance when predicting Iris species using petal and sepal width and length.
 
 [Nutrition Tracker](). Building the basic functionality of a nutrition tracking application, in which a dataset containing 500,000+ foods can be searched, nutritional information for a food can be visualised and then added to a daily total.
