@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This repository contains a collection of projects I have completed to demonstrate my understanding and application of various python packages commonly used in data-science. It includes examples of data cleaning, data wrangling, visualisation, usage of fundamental statistical methods (difference and relationship testing) as well as building of machine learning models.
+This repository contains a collection of projects I have completed to demonstrate my understanding and application of various python packages commonly used in data-science. It includes examples of data cleaning, data wrangling, visualisation, usage of fundamental statistical methods (difference and relationship testing), as well as building of machine learning models.
 
 
 ## Contents
