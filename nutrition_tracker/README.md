@@ -9,4 +9,4 @@ The majority of RDIs were taken from a report by the Institute of Medicine of th
 several nutrients not included in those reports such as alcohol and trans fats were taken from the NHS website available [here (alcohol)](https://www.nhs.uk/live-well/alcohol-support/calculating-alcohol-units/) and [here (fats)](https://www.nhs.uk/live-well/eat-well/different-fats-nutrition/)
 
 
-
+![gui_demo](https://user-images.githubusercontent.com/73485794/119148088-b35d3900-ba3b-11eb-9f19-b38dcbdd3e1a.gif)
