@@ -1,6 +1,6 @@
 # Programming Portfolio
 
-This repository contains a collection of projects I have completed to demonstrate my understanding and application of the Python programming language and a number of its essential packages. It includes examples of data cleaning, data wrangling, visualisation, usage of fundamental statistical methods (difference and relationship testing) and machine learning models, as well as the construction of GUI application.
+This repository contains a collection of projects I have completed to demonstrate my understanding and application of the Python programming language and a number of its essential packages. It includes examples of data cleaning, data wrangling, visualisation, usage of fundamental statistical methods (difference and relationship testing) and machine learning models, as well as the construction of GUI applications.
 
 ## Contents
 ---
