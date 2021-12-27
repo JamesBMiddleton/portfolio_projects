@@ -1,9 +1,13 @@
+<img src="https://user-images.githubusercontent.com/73485794/147486428-957a735b-0233-42a3-830a-d3ada184ce52.gif" align="right">
+
 # Programming Portfolio
 
-This repository contains a collection of projects I have completed to demonstrate my understanding and application of the Python programming language and a number of its essential packages. It includes examples of data cleaning, data wrangling, visualisation, usage of fundamental statistical methods (difference and relationship testing) and machine learning models, as well as the construction of GUI applications.
+This repository contains a collection of projects I have completed which demonstrate my understanding and application of various programming principles and practices. <br> The main programming languages used are C++ and Python. The main topics covered include fundamental program design in C++ and Python, GUI application design in Python as well as various aspects of data science and statistics using a number of Python packages.
 
 ## Contents
 ---
+
+[Procedural ASCII tree generation](https://github.com/JamesBMiddleton/ASCII_tree). A C++ program which generates and animates the growth of tree-like structures in a terminal window using coloured ASCII characters.
 
 [Nutrition tracking application](https://github.com/JamesBMiddleton/portfolio_projects/blob/main/nutrition_tracker/README.md). Building the basic functionality of a nutrition tracking GUI application using Pandas, Matplotlib and PyQt5. A dataset containing ~500,000 foods can be searched, nutritional information for a food can be visualised in reference to an individual's Recommended Daily Intakes (RDIs) and then added to a daily total.
 
