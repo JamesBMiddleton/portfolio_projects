@@ -2,7 +2,7 @@
 
 # Programming Portfolio
 
-This repository contains a collection of projects I have completed which demonstrate my understanding and application of various programming principles and practices. <br> The main programming languages used are C++ and Python. The main topics covered include fundamental program design in C++ and Python, GUI application design in Python as well as various aspects of data science and statistics using a number of Python packages.
+This repository contains a collection of personal projects I have completed which demonstrate my understanding and application of various programming principles and practices. <br> The main programming languages used are C++ and Python. The main topics covered include fundamental program design in C++ and Python, GUI application design in Python as well as various aspects of data science and statistics using a number of Python packages.
 
 ## Contents
 ---
