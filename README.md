@@ -4,13 +4,15 @@ This repository contains a collection of personal projects which demonstrate my 
 
 ## Contents
 
+[Neural Network LED matrix visualisation](https://github.com/JamesBMiddleton/MicrocontrollerANN). Implementing a neural network from scratch in C++. Running the network on a microcontroller which drives an LED matrix showing a real-time visualisation of the training process.
+
 [Modern C++ Design Patterns](https://github.com/JamesBMiddleton/DesignPatterns). Modern C++ implementations of the Gang of Four's Design Patterns. Used as an opportunity to implement a full C++ toolchain; testing with Catch2 + CTest, linting with clang-tidy + clang-format, documentation with Doxygen + GitHub pages and GitHub Actions for CI/CD.
 
 [Procedural ASCII tree generation](https://github.com/JamesBMiddleton/ASCII_tree_2). A terminal-based C++ animation program which procedurally generates coloured tree shaped structures using ASCII characters. 
 
 [Nutrition tracking application](https://github.com/JamesBMiddleton/portfolio_projects/blob/main/nutrition_tracker/README.md). Building the basic functionality of a nutrition tracking GUI application using Pandas, Matplotlib and PyQt5. A dataset containing ~500,000 foods can be searched, nutritional information for a food can be visualised in reference to an individual's Recommended Daily Intakes (RDIs) and then added to a daily total.
 
-[PLACES 2020 - Exploring 27 U.S. Health & Lifestyle measures](https://nbviewer.jupyter.org/github/JamesBMiddleton/portfolio_projects/blob/main/places_2020/Notebook.ipynb). Exploring the prevalence of various health and lifestyle measures across the U.S and building a multiple regression model to predict disease prevalence using common risk factors. 
+[PLACES 2020 - Exploring 27 U.S. Health & Lifestyle Measures](https://nbviewer.jupyter.org/github/JamesBMiddleton/portfolio_projects/blob/main/places_2020/Notebook.ipynb). Exploring the prevalence of various health and lifestyle measures across the U.S and building a multiple regression model to predict disease prevalence using common risk factors. 
 
 [Building a K-nearest classifier from scratch](https://nbviewer.jupyter.org/github/JamesBMiddleton/portfolio_projects/blob/main/k_nearest_classifier/Notebook.ipynb). Explaining the theory and building a train-test split function, normalisation function and K-nearest classifier class using NumPy and random. Assessing the classifier's performance when predicting Iris species using petal and sepal width and length.
 
